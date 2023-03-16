@@ -1,7 +1,9 @@
-# uca-starter-python
+# uca-starter-python-AI-answering-bot
+AI Answering Bot using "distilbert-base-cased-distilled-squad"
+
 Uniconnapp Quick Start Template for python users
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=583330162)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=614981273)
 
 # Building blocks of Uniconnapps
 ## UCA (Uniconnapps) Platform
